@@ -3,10 +3,12 @@ languageCode = 'en-us'
 theme = 'PaperMod'
 title = "Jakub Janeček's Blog"
 description = 'This is my personal blog.'
-ShowFullTextinRSS = true
 
 [params]
 defaultTheme = 'auto'
+ShowFullTextinRSS = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
 Title = "Jakub Janeček"
