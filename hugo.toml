@@ -1,0 +1,33 @@
+baseURL = 'https://blog.jakubjanecek.com/'
+languageCode = 'en-us'
+theme = 'PaperMod'
+title = "Jakub Janeček's Blog"
+description = 'This is my personal blog.'
+ShowFullTextinRSS = true
+
+[params]
+defaultTheme = 'auto'
+
+[params.homeInfoParams]
+Title = "Jakub Janeček"
+Content = "Scala and functional programming enthusiast and Senior Software Engineer at [Ematiq](https://www.ematiq.com). Author of [Scala Server Toolkit](https://github.com/avast/scala-server/toolkit)."
+
+[[params.socialIcons]]
+name = "Email"
+url = "mailto:main.tea8323@fastmail.com"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/jakubjanecek"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/jakubjanecek"
+
+[[params.socialIcons]]
+name = "Mastodon"
+url = "https://mastodonczech.cz/@jakubjanecek"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/jakubjanecek/"
