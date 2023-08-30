@@ -44,3 +44,8 @@ if you cooperate on the code with others but as long as the branch is just yours
 ## Conclusion
 
 It's quite satisfying to see it in action. I hope you will find it useful as well.
+
+## Edit August 30th, 2023
+
+Of course there is an easier way even though I wasn't able to find it. It was pointed out to me that you can just do `git commit --amend --no-edit`
+instead of the rebase and it will do the same thing.
