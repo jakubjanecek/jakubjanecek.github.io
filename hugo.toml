@@ -13,7 +13,7 @@ ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
 Title = "Jakub Janeček"
-Content = "Scala and functional programming enthusiast and Senior Software Engineer at [Ematiq](https://www.ematiq.com) (ex-Avast and ex-Productboard). Author of [Scala Server Toolkit](https://github.com/avast/scala-server/toolkit)."
+Content = "Scala and functional programming enthusiast and Senior Software Engineer at SiriusXM. Author of [Scala Server Toolkit](https://github.com/avast/scala-server/toolkit)."
 
 [[params.socialIcons]]
 name = "Email"
